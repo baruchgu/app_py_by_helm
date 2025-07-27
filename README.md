@@ -53,8 +53,8 @@ chmod +x src/uninstall.sh
   - 📄 <span style="display: inline-block; margin-right: 20px;">[LICENSE](./LICENSE)</span> MIT License note  
   - 📂 <span style="display: inline-block; margin-right: 20px;">[src](./src)</span> Project setup scripts
 <details><summary></summary>
-    - 📜 <span style="display: inline-block; margin-right: 20px;">[setup.myapp.sh](src/setup.myapp.sh)</span> Main setup script   
-    - 📜 <span style="display: inline-block; margin-right: 20px;">[uninstall.sh](src/uninstall.sh)</span> Clean up script
+    - 📜 <span style="display: inline-block; margin-right: 20px;">[setup.myapp.sh](./src/setup.myapp.sh)</span> Main setup script   
+    - 📜 <span style="display: inline-block; margin-right: 20px;">[uninstall.sh](./src/uninstall.sh)</span> Clean up script  
 
 </details>
 </details>
