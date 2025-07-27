@@ -1,0 +1,1 @@
+- Run detail_app from previous tasks by Helm chart
