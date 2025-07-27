@@ -13,11 +13,11 @@ The project demonstration consists of
 Before you begin, ensure you have the following installed:
 - [Git](https://git-scm.com/) to clone the repository
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) to interact with your Kubernetes cluster
-- A Kubernetes cluster (e.g., Minikube, Kind, or a cloud provider like GKE, EKS, or AKS)
+- Kubernetes cluster
 - curl package
 K3S tool is running in Debian based node.  
 
-## Getting Started
+## 🎬 Getting Started
 
 Follow these steps to clone the repository, set up the helm chart, and deploy the application.
 
@@ -37,7 +37,7 @@ Run the `setup.myapp.sh` script to automate the NFS server setup:
 chmod +x src/setup.myapp.sh
 ./src/setup.myapp.sh
 ```
-### 3. Cleaning Up
+### 3. 🛁 Cleaning Up
 The script uninstall.sh destroies the deploiment and removes the chart directory
 ```bash
 chmod +x src/uninstall.sh
@@ -57,7 +57,7 @@ chmod +x src/uninstall.sh
 
 </details>
 
-## Contributing
+## 💉 Contributing
 Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](https://github.com/baruchgu/app_py_by_helm) for bug fixes, improvements, or new features.
 
 ## 🪪 License
